@@ -13,3 +13,22 @@ Om jag hade mer tid.
 - Möjlighet att köra med flera bilar.
 - Visa var bilen befinner sig efter varje körning (command).
 - Fler UnitTester
+
+Questions
+Please answer these questions in a markdown file called Answers.md.
+
+1.	Ca: 4-5 timmar?
+
+2.	Lagom mycket klasser och metoder för att göra koden begriplig och samtidigt strukturerad. Kan dock göras mer, se nästa punkt.
+
+3.	- Använd en loop för att hantera ogiltig indata
+- Bättre meddelande
+- Använda specifika felmeddelande istället för generella.
+- Strukturera kod bättre i Programs.cs. Separera input och logik
+- Använda records i stället för classer (Car, Room)
+- Lägga till loggning.
+- Möjlighet att köra med flera bilar.
+- Visa var bilen befinner sig efter varje körning (command).
+- Fler UnitTester
+
+4.	Kul uppgift, där man skulle kunna lägga till massa annat?
